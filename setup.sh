@@ -9,6 +9,7 @@ sudo apt install vim git gcc gdb python3 python3-pip python3-dev git libssl-dev 
 echo ./vimrc >> ~/.vimrc
 cp -f ./shorcut.sh ~/shorcut.sh
 
+
 #!/bin/sh
 
 sudo apt-get install dh-autoreconf ruby -y
